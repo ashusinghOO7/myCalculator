@@ -60,5 +60,5 @@ function two(){
 }
 function equal(){
     console.log(eval(s));
-    document.getElementById("str2").innerText =" = " + eval(s);
+    document.getElementById("str2").innerText =eval(s);
 }
